@@ -1,0 +1,166 @@
+{
+    "methods": [
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["BEST-GBPS"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["UDPBYPASS"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["UDPMIX"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["UDPPPS"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["GREUDP"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["DISCORD"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["TCPBYPASS"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["ACK"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["TCPMIX"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["2-ACK"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["OVH"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["RL"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["FIVEM"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["DAYZ"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["FORT"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["GAME"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["HTTP"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["CLOUDFLARE"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["EMU"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["TLS"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["K9"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["HOMEHOLD"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["HOME"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["SISPHERE"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["SDCC"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["AMP"]
+        },
+        {
+            "api_name": "Dutch321x",
+            "target": "api_here",
+            "urlEncode": false,
+            "attack_methods": ["MINECRAFT"]
+        }
+    ]
+}
